@@ -1,4 +1,4 @@
-# Electron Vue Vuetify Boilerplate
+# Electron Vue Bootstrap Boilerplate
 
 A customized fork of [electron-boilerplate](https://github.com/szwacz/electron-boilerplate)
 
